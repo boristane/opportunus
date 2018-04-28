@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 150px;
+}
+
+#logo{
+    width: 220px;
+    height: auto;
+}
+
+.headline{
+    font-family: 'Source Code Pro', monospace;
+    color: grey;
+    font-size: 3.0em;
+    width: 1200px;
+}
+
+.underlined{
+    text-decoration: underline;
+}
+
+.container p{
+    width: 800px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0em;
+}
+
+section{
+    padding: 150px 5%;
+    box-sizing: margin-box;
+}
+
+section .title{
+    display: inline;
+    background-color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 2.2em;
+    padding: 10px 20px;
+}
+
+.description{
+    margin-top: 50px;
+}
+
+section p{
+    width: 800px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 1.4em;
+    line-height: 1.6em;
+}
+
+.interaction .title{
+    color: rgb(125, 187, 81);
+}
+
+.interaction{
+    background-color: rgb(125, 187, 81);
+}
+
+.accompaniment{
+    background-color: #44d9e6;
+}
+
+.accompaniment .title{
+    color: #44d9e6;
+}
+
+.funding{
+    background-color: #FFBD4A;
+}
+
+.funding .title{
+    color: #FFBD4A;
+}
+
+.networking{
+    background-color: #FF5C5C;
+}
+
+.networking .title{
+    color: #FF5C5C;
+}
+
+.community{
+    background-color: #B760E6;
+}
+
+.community .title{
+    color: #B760E6;
+}
